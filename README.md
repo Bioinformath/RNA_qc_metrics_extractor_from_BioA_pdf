@@ -14,7 +14,7 @@
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/RNA_qc_metrics_extractor_from_BioA_pdf.git
+   git clone https://github.com/Bioinformath/RNA_qc_metrics_extractor_from_BioA_pdf.git
    cd RNA_qc_matrix_extractor_BioA
    
 2. Install dependencies:
